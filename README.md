@@ -32,7 +32,10 @@ I build things I actually want to exist.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1ysander&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+  <a href="https://github.com/1ysander?tab=followers"><img src="https://img.shields.io/github/followers/1ysander?label=Followers&style=social" alt="GitHub Followers" /></a>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ysander&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+  <a href="https://github.com/1ysander"><img src="https://img.shields.io/badge/Swift-orange?style=flat&logo=swift&logoColor=white" alt="Swift" /></a>
+  <a href="https://github.com/1ysander"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://github.com/1ysander"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /></a>
+  <a href="https://github.com/1ysander"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" /></a>
 </p>
