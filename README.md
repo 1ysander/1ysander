@@ -1,6 +1,6 @@
-# hey, I'm Lysander 👋
+# Hey, I'm Lysander 
 
-I build things — apps, tools, and ideas I actually want to exist.
+I build things I actually want to exist.
 
 ---
 
@@ -26,7 +26,7 @@ I build things — apps, tools, and ideas I actually want to exist.
 ## currently
 
 - Building **conversation-capture** — designing the watch UI and sync pipeline
-- Studying CS @ WashU
+- Studying CS Business and Whatever @ WashU
 
 ---
 
