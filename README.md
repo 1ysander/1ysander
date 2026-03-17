@@ -27,7 +27,7 @@ I build projects for fun.
 ## currently
 
 - Building **conversation-capture** — designing the watch UI and sync pipeline
-- Studying CS Business and Whatever @ WashU
+- Studying @ WashU
 
 ---
 
