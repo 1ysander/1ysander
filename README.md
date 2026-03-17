@@ -1,10 +1,10 @@
 # Hey, I'm Lysander 
 
-I build things I actually want to exist.
+I build projects for fun.
 
 ---
 
-## what I'm working on
+## what I've worked on
 
 | Project | What it is |
 |---|---|
