@@ -34,14 +34,3 @@ Java · Android · Python
 
 Also worked with: Swift, TypeScript, React, Supabase
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1ysander&show_icons=true&theme=transparent&title_color=00d4aa&icon_color=6366f1&text_color=94a3b8&hide_border=true&count_private=true&bg_color=0a0f1a" alt="stats" />
-</p>
-
-<p align="center">
-  <sub>
-    &#x2500;&#x2500;&#x2500; ATCG &#x00b7; GCTA &#x00b7; TGCA &#x2500;&#x2500;&#x2500;
-  </sub>
-</p>
