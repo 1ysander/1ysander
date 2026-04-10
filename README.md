@@ -2,9 +2,9 @@
   <img src="header.svg" alt="Lysander Elgar" width="100%"/>
 </p>
 
-Hey, I'm Lysander — undergraduate at **Washington University in St. Louis** studying **Data Science** with a minor in **PME** and **PMP**.
+Hey, I'm Lysander — undergraduate at **Washington University in St. Louis** studying **Data Science** with a minor in **BME** and **PNP**.
 
-Currently exploring research.
+Currently exploring research. I prefer Claude over Codex.
 
 ---
 
