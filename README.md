@@ -16,6 +16,14 @@ Currently exploring research.
 
 ---
 
+### Hackathons
+
+| Repository | Description |
+|:-----------|:------------|
+| [Hackathon-GD](https://github.com/ktaehoon233/Hackathon-GD) | Sepsis early warning dashboard — FastAPI backend/bridge + single-page React frontend with vitals charts, nurse notes, and an LLM agent that generates nurse-style explanations for each alert. Built with a team of four. |
+
+---
+
 ### Other Projects
 
 | Repository | Description |
@@ -33,4 +41,3 @@ Java · Android · Python
 ```
 
 Also worked with: Swift, TypeScript, React, Supabase
-
