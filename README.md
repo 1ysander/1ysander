@@ -2,42 +2,45 @@
   <img src="header.svg" alt="Lysander Elgar" width="100%"/>
 </p>
 
-Hey, I'm Lysander, undergraduate at **Washington University in St. Louis** studying **Data Science**
+I'm an undergraduate researcher at **Washington University in St. Louis** building
+computational tools for spatial biology, genomics, and machine learning. I care about
+reproducible analysis, honest uncertainty, and results that other people can inspect.
 
-Currently exploring research.
+### Current research
 
----
+#### CosMx spatial transcriptomics of mouse dorsal root ganglia
 
-### Research Projects
+I contribute to a Chamessian Lab study of **34,540 cells from 37 L4 ganglia across 20
+mice**. My work includes R/Seurat pipelines for reference-based cell-type annotation,
+unsupervised clustering, section-aware spatial-neighborhood analysis, validation, and
+reproducible figures. The research repository is lab-managed and is not currently public.
 
-| Repository | Description |
-|:-----------|:------------|
-| [gwas-snp-analysis](https://github.com/1ysander/gwas-snp-analysis) | Genomic variant analysis pipeline that maps 107 pain-associated SNPs against 222 cell-type cCRE peak sets, computes chromosomal density profiles, and identifies cell types enriched for regulatory variants |
+#### Pain-associated GWAS variants x cell-type regulatory elements
 
----
+An exploratory Python pipeline comparing **107 cataloged pain-associated SNPs** with
+**222 cell-type cCRE peak sets**. It produces interval-overlap and chromosome-density
+summaries; it is an exploratory prioritization exercise, not causal fine-mapping.
+[View the project](https://github.com/1ysander/gwas-snp-analysis)
 
-### Hackathons
+### Hackathon work
 
-| Repository | Description |
-|:-----------|:------------|
-| [Hackathon-GD](https://github.com/ktaehoon233/Hackathon-GD) | Sepsis early warning dashboard — FastAPI backend/bridge + single-page React frontend with vitals charts, nurse notes, and an LLM agent that generates nurse-style explanations for each alert. Built with a team of four. |
+#### Sepsis Early Warning
 
----
+A four-person prototype combining a clinical dashboard, two FastAPI services, a
+RandomForest trained on synthetic patient trajectories, and Gemini-generated
+nurse-facing explanations. The hosted browser demo uses fixture data; the local model
+and agent path is not yet wired into the hosted frontend. The team repository is not
+currently public.
 
-### Other Projects
+### Selected builds
 
-| Repository | Description |
-|:-----------|:------------|
-| [conversation-capture](https://github.com/1ysander/conversation-capture) | Apple Watch + iPhone app for AI-powered conversation transcription, summarization, and semantic Q&A |
-| [projectly](https://github.com/1ysander/projectly) | Shipping management web app built with React, Vite, Supabase |
-| [ecomm-pricing-calculator](https://github.com/1ysander/ecomm-pricing-calculator) | Dynamic pricing and margin calculator for e-commerce that models non-linear fulfillment costs, zone-based shipping, and real-time margin analysis |
+- **[Conversation Capture](https://github.com/1ysander/conversation-capture)** — product
+  architecture and implementation blueprint for an Apple Watch + iPhone transcription,
+  summarization, and semantic Q&A system; implementation is in progress.
+- **[Projectly](https://github.com/1ysander/projectly)** — shipping-workflow prototype
+  built with TypeScript, React, Vite, and Supabase.
 
----
+### Tools I use
 
-### Stack
-
-```
-Java · Android · Python
-```
-
-Also worked with: Swift, TypeScript, React, Supabase
+`R` · `Seurat` · `ggplot2` · `Python` · `scikit-learn` · `TypeScript` · `React` ·
+`FastAPI` · `SwiftUI` · `Supabase` · `Git`
