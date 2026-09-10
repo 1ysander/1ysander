@@ -45,7 +45,7 @@ autonomously contact 911.
 
 A four-person prototype combining a clinical dashboard, FastAPI services, a RandomForest
 trained on synthetic patient trajectories, and Gemini-generated nurse-facing explanations.
-The hosted demo uses fixture data; the model and agent path runs locally.
+The hosted demo uses fixture data; the model and agent components run locally.
 
 ---
 
