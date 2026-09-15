@@ -41,7 +41,7 @@ I build workflows in R and Seurat, check cell-type annotations, validate cluster
 
 **T-cell receptor topology · Borcherding Lab**
 
-I joined a manuscript revision studying whether pre-transplant TCR-beta sequence-similarity networks predict kidney allograft outcomes independently of HLA mismatch. I rerun and stress-test the analysis, incorporate an external cohort, and help revise the figures and manuscript.
+I will join a manuscript revision studying whether pre-transplant TCR-beta sequence-similarity networks predict kidney allograft outcomes independently of HLA mismatch. I will rerun and stress-test the analysis, incorporate an external cohort, and help revise the figures and manuscript.
 
 [Read the earlier manuscript version ↗](https://pmc.ncbi.nlm.nih.gov/articles/PMC13174407/)
 
